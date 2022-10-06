@@ -1,0 +1,25 @@
+{
+  "name": "pokerandomizer",
+  "version": "3.0.0",
+  "description": "Pokemon Bot?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/NixDevs/PokeRandomizer"
+  },
+  "keywords": [
+    "shit"
+  ],
+  "author": "ARLO",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.0",
+    "pokedex-promise-v2": "^3.1.1"
+  }
+}
